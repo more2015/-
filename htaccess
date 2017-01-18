@@ -1,0 +1,5 @@
+<FilesMatch "xmlrpc.phpsd">
+Order allow,deny
+Deny from all
+</FilesMatch>
+apache禁止访问莫文件
